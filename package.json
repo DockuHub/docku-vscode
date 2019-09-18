@@ -1,6 +1,11 @@
 {
 	"author": "docku",
+	"publisher": "docku",
 	"name": "docku-vscode",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/DockuHub/docku-vscode"
+	},
 	"displayName": "docku-vscode",
 	"description": "",
 	"version": "0.0.1",
