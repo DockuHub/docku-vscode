@@ -1,6 +1,6 @@
 # Docku Extension for VSCode
 
-This extension was built as a development tool for Docku deveopers
+This extension was built as a development tool for Docku developers
 
 So far the Extension does the following
 
